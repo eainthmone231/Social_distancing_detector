@@ -1,7 +1,7 @@
 # Social_distancing_detector
 Detect Social Distancing with Yolo Object Detector
 
-https://user-images.githubusercontent.com/65527675/141954792-c2e209ad-9a91-4786-9d65-878dd92966d4.mp4
+![index](https://user-images.githubusercontent.com/65527675/141955984-ec9cda50-ab06-4ed4-8ddf-41f2dd4a2e16.jpg)
 
 ## Description
 
